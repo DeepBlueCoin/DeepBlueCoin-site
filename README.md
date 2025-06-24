@@ -20,7 +20,7 @@
 ### 📘 Resources
 
 - 📄 [Whitepaper](./DeepBlue_Coin_Whitepaper.pdf)  
-- 🌐 [Live Website](https://yourusername.github.io/deepbluecoin-site) *(Update with your actual URL)*
+- 🌐 [Live Website](https://deepbluecoin.github.io)
 
 ---
 
