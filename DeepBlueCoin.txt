@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DeepBlue Coin (DBC)</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        body {
+            font-family: 'Segoe UI', sans-serif;
+            background: linear-gradient(to bottom, #00cfff, #0099cc);
+            color: white;
+            text-align: center;
+            margin: 0;
+        }
+        header {
+            padding: 60px 20px;
+        }
+        header h1 {
+            font-size: 3em;
+        }
+        header p {
+            font-size: 1.4em;
+        }
+        .button {
+            background: #fff;
+            color: #0099cc;
+            padding: 12px 25px;
+            text-decoration: none;
+            font-weight: bold;
+            border-radius: 8px;
+            margin-top: 20px;
+            display: inline-block;
+        }
+        section {
+            padding: 40px 20px;
+            background: rgba(0, 0, 0, 0.2);
+            margin: 10px 0;
+        }
+        footer {
+            background: #005577;
+            padding: 20px;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>DeepBlue Coin (DBC)</h1>
+    <p>Dive Deep into Financial Freedom</p>
+    <a class="button" href="DeepBlue_Coin_Whitepaper.pdf">Download Whitepaper</a>
+</header>
+
+<section>
+    <h2>Our Mission</h2>
+    <p>Empowering crypto users while preserving the ocean. DeepBlue is built for long-term growth and real-world impact.</p>
+</section>
+
+<section>
+    <h2>Tokenomics</h2>
+    <p>1B Total Supply • 5% Transaction Tax<br>
+    - 2% Ocean Fund<br>
+    - 2% Rewards Pool<br>
+    - 1% Liquidity</p>
+</section>
+
+<section>
+    <h2>Join the DAO</h2>
+    <p>Have your say. Help guide the project through governance voting.</p>
+</section>
+
+<footer>
+    &copy; 2025 DeepBlue Coin. All rights reserved.
+</footer>
+
+</body>
+</html>
